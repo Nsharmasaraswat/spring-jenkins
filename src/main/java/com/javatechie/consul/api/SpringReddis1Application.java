@@ -26,8 +26,6 @@ public class SpringReddis1Application {
 		logger.info("application executed...");
 
 		logger.info("new  logger added");
-
-		logger.info("new logger is added afte the pipline created");
 		
 		SpringApplication.run(SpringReddis1Application.class, args);
 	}
