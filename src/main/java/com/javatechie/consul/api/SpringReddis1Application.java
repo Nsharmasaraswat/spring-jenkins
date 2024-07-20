@@ -24,7 +24,8 @@ public class SpringReddis1Application {
 		
 		
 		logger.info("application executed...");
-		
+
+		logger.info("new  logger added");
 		
 		SpringApplication.run(SpringReddis1Application.class, args);
 	}
